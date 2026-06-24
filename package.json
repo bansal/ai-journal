@@ -1,0 +1,25 @@
+{
+  "name": "ai-journal",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/icon": "^2.2.3",
+    "@nuxt/kit": "^4.4.8",
+    "@nuxt/ui": "^4.8.2",
+    "nuxt": "^4.4.8",
+    "rss-parser": "^3.13.0",
+    "tailwindcss": "^4.3.1",
+    "vue": "^3.5.38",
+    "vue-router": "^5.1.0"
+  },
+  "devDependencies": {
+    "@iconify-json/lucide": "^1.2.114"
+  }
+}

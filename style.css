@@ -1,0 +1,13 @@
+:root {
+  --font-sans: "Public Sans", system-ui, sans-serif;
+  --font-serif: "JetBrains Mono", monospace;
+  --ui-primary: var(--color-indigo-700);
+  --ui-bg: var(--ui-color-primary-50);
+  --ui-border: var(--ui-color-primary-200);
+}
+
+.dark {
+  --ui-primary: var(--color-indigo-300);
+  --ui-bg: var(--ui-color-primary-950);
+  --ui-border: var(--ui-color-primary-800);
+}
