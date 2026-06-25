@@ -99,24 +99,9 @@ export default defineNuxtConfig({
       ],
       externalLinks: [
         {
-          id: "arxiv-ai",
-          name: "arXiv AI",
-          href: "https://arxiv.org/list/cs.AI/recent",
-        },
-        {
-          id: "papers-with-code",
-          name: "Papers With Code",
-          href: "https://paperswithcode.com/area/artificial-intelligence",
-        },
-        {
-          id: "semantic-scholar",
-          name: "Semantic Scholar",
-          href: "https://www.semanticscholar.org/search?q=artificial%20intelligence",
-        },
-        {
-          id: "stanford-hai",
-          name: "Stanford HAI",
-          href: "https://hai.stanford.edu/",
+          id: "pitchwall",
+          name: "Pitchwall",
+          href: "https://pitchwall.co",
         },
       ],
       filters: {
