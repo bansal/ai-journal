@@ -83,5 +83,8 @@ export default defineAppConfig({
         href: "https://pitchwall.co",
       },
     ],
+    filter: {
+      thumbnailOnly: true,
+    },
   },
 });
