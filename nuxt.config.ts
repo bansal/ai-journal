@@ -20,13 +20,6 @@ export default defineNuxtConfig({
       },
       newsSources: [
         {
-          id: "techcrunch-ai",
-          name: "TechCrunch AI",
-          url: "https://techcrunch.com/category/artificial-intelligence/feed/",
-          link: "https://techcrunch.com/category/artificial-intelligence/",
-          category: "Industry",
-        },
-        {
           id: "the-verge-ai",
           name: "The Verge AI",
           url: "https://www.theverge.com/rss/ai/index.xml",
