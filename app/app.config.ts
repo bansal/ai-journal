@@ -79,8 +79,8 @@ export default defineAppConfig({
     externalLinks: [
       {
         id: "pitchwall",
-        name: "Pitchwall",
-        href: "https://pitchwall.co",
+        name: "Featured on Pitchwall",
+        href: "https://pitchwall.co/product/ai-journal",
       },
     ],
     filter: {
